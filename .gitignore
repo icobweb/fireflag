@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Stock data cache
+cline_mcp/stock_data_cache/*.pkl
+
+# Environment
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+*.csv
+*.txt
